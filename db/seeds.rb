@@ -8,6 +8,8 @@
 
 
 bleak = Student.create(first_name: "Bleak", last_name: "Chandler")
+bobby = Student.create(first_name: "Bobby", last_name: "Caruso")
+chris = Student.create(first_name: "Chris", last_name: "Rosa")
 
 
 
